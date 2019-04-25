@@ -13,7 +13,7 @@
 
 **************上传到远程仓库******************
 克隆文件后,编辑vim .git文件下的config文件
-里面的url路径换成如 url = https://github123457:wlf123457@github.com/github123457/sk.git    其中github123457是用户名   :后的是密码加上@符号
+里面的url路径换成如 url = https://github123457:****@github.com/github123457/sk.git    其中github123457是用户名   :后的是密码加上@符号
 git push 
 1. git clone url,url是github的项目地址 克隆github的代码
 2.git add 文件
